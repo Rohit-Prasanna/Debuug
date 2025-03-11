@@ -9,8 +9,10 @@ const elemToggleFunc = function (elem) { elem.classList.toggle("active"); }
 
 
 /**
- * navbar toggle
+ * HERE
  */
+// X : 20.01, Y will be hidden in any of the image -----search everywhere in the image
+        
 
 const navbar = document.querySelector("[data-navbar]");
 const overlay = document.querySelector("[data-overlay]");
